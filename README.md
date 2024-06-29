@@ -13,7 +13,7 @@ The primary objective of the Home Service System is to facilitate quick and effi
 
 The Home Service System integrates various external components such as Google Gmail, Google Maps, and payment systems (e.g., Apple Pay) to provide a seamless user experience. The system ensures secure authentication, real-time tracking of service providers, and secure payment processing. 🔒📍💳
 
-### Key Features ✨
+### Key Features✨
 
 - **Service Booking:** Users can browse and book various home services directly through the application. 📅
 - **Real-Time Tracking:** The system uses Google Maps to provide real-time tracking of service providers. 🚗

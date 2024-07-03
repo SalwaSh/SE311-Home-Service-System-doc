@@ -33,7 +33,7 @@ The RFP document lays the groundwork for the project. It defines the Project Nam
 
 The SRS document is structured into four main sections. The first section provides an introduction, covering the Purpose of the System, System Identification, System Overview, Related References, and an overview of the SRS Document Structure. The second section delves into various aspects of the system design. This includes the Product Perspective, which a **Context Diagram** illustrating how the system will interact with external systems. It also covers System Interfaces (APIs), **Overall Use Cases**, User Characteristics, Constraints, and Assumptions and Dependencies. The third section is dedicated to detailing the specific Requirements of the project. This includes a thorough exploration of the Software Product Features, with **Detailed Use Cases and Tabular Descriptions for each Functional Requirement**. Additionally, this section covers the External Interface Requirements, breaking them down for User, Hardware, and Software interfaces, and provides **Requirement Traceability Table**. The fourth and final section lists all Acronyms and Abbreviations used throughout the document.Rounding out the SRS are Appendices that provide information on the User Interface (UI), **Sequence Diagrams**, and **User Stories**.
 
-### Contributors:
+### Contributors ✍️
 
 - Abeer Jeilani
 - Jana Aldubai
